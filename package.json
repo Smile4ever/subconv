@@ -1,0 +1,24 @@
+{
+  "name": "subconv",
+  "version": "1.0.0",
+  "description": "Convert between subtitle formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "subconv",
+    "srt",
+    "lrc",
+    "subtitles",
+    "convert"
+  ],
+  "bin": {
+    "subconv": "./index.js"
+  },
+  "author": "Geoffrey De Belie",
+  "license": "GPL-2.0+",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
