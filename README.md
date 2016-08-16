@@ -8,10 +8,12 @@ Linux / Windows
 - Install NodeJS.
 - Execute the following commands
 
+```
     git clone https://github.com/Smile4ever/subconv
     cd subconv
     sudo npm update
     sudo npm install -g
+```
 
 (for Windows, execute the command without sudo and do this in an elevated command prompt as Administrator)
 
